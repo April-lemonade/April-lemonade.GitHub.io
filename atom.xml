@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.april-fu.com</id>
+    <title>April Fu</title>
+    <updated>2023-12-05T08:31:28.605Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.april-fu.com"/>
+    <link rel="self" href="https://www.april-fu.com/atom.xml"/>
+    <subtitle>Do what makes your soul shine.</subtitle>
+    <logo>https://www.april-fu.com/images/avatar.png</logo>
+    <icon>https://www.april-fu.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, April Fu</rights>
+    <entry>
+        <title type="html"><![CDATA[Kidom - 儿童友好型创意集市]]></title>
+        <id>https://www.april-fu.com/Dly_3ZJ4O/</id>
+        <link href="https://www.april-fu.com/Dly_3ZJ4O/">
+        </link>
+        <updated>2023-12-01T02:30:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[beast&beat - 失去兽性失去一切]]></title>
+        <id>https://www.april-fu.com/beastandbeat-shi-qu-shou-xing-shi-qu-yi-qie/</id>
+        <link href="https://www.april-fu.com/beastandbeat-shi-qu-shou-xing-shi-qu-yi-qie/">
+        </link>
+        <updated>2023-11-30T01:03:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GymFit - 健身房智慧硬件提供商]]></title>
+        <id>https://www.april-fu.com/gymfit-jian-shen-fang-zhi-hui-ying-jian-ti-gong-shang/</id>
+        <link href="https://www.april-fu.com/gymfit-jian-shen-fang-zhi-hui-ying-jian-ti-gong-shang/">
+        </link>
+        <updated>2022-05-10T06:04:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百分百 - 基于教考分离的在线考试系统]]></title>
+        <id>https://www.april-fu.com/bai-fen-bai-ji-yu-jiao-kao-fen-chi-de-zai-xian-kao-shi-xi-tong/</id>
+        <link href="https://www.april-fu.com/bai-fen-bai-ji-yu-jiao-kao-fen-chi-de-zai-xian-kao-shi-xi-tong/">
+        </link>
+        <updated>2022-04-22T04:01:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMS - 聚焦人脸识别的大数据测试系统]]></title>
+        <id>https://www.april-fu.com/aims-ai-measurement-system-ju-jiao-ren-lian-shi-bie-de-da-shu-ju-ce-shi-xi-tong/</id>
+        <link href="https://www.april-fu.com/aims-ai-measurement-system-ju-jiao-ren-lian-shi-bie-de-da-shu-ju-ce-shi-xi-tong/">
+        </link>
+        <updated>2021-10-21T08:07:53.000Z</updated>
+    </entry>
+</feed>
